@@ -1,0 +1,5 @@
+# LLM 配置 — OpenAI 兼容 API 格式
+# 填入你的 API 信息，支持 DeepSeek / Qwen / OpenAI 等服务商
+api_key=sk-your-key-here
+api_url=https://api.deepseek.com/chat/completions
+model=deepseek-chat
